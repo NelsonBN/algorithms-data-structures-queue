@@ -12,4 +12,4 @@
 
 
 ## References
-- [Other algoritmos & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
+- [Other Algorithms & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
